@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Fazil A R",
-  role: "Computer Science and Engineering Student & Full-Stack Developer",
+  role: "Aspiring Full-Stack Developer",
   status: "Open to Software Roles & Internships",
   bio: "Motivated Computer Science student specializing in modern full-stack web development and data-driven technologies. Dedicated to architecting responsive, scalable applications with clean code, modern UX principles, and robust performance.",
   location: "Erode, Tamil Nadu, India",
