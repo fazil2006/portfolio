@@ -1,4 +1,4 @@
-export const personalInfo = {
+﻿export const personalInfo = {
   name: "Fazil A R",
   role: "Aspiring Full-Stack Developer",
   status: "Open to Software Roles & Internships",
@@ -9,7 +9,7 @@ export const personalInfo = {
   linkedin: "https://linkedin.com",
   photo: "fazil.jpg",
   stats: [
-    { label: "Engineering Track", value: "2023 – 2027", detail: "B.E. Computer Science" },
+    { label: "Engineering Track", value: "2023 - 2027", detail: "B.E. Computer Science" },
     { label: "Leadership", value: "President", detail: "Student Developer Club" },
     { label: "Featured Projects", value: "Production-Grade", detail: "React & Full-Stack" },
   ]
@@ -19,7 +19,7 @@ export const educationData = [
   {
     id: "be-cse",
     degree: "Bachelor of Engineering in Computer Science & Engineering",
-    period: "2023 – 2027",
+    period: "2023 - 2027",
     institution: "Al-Ameen Engineering College",
     location: "Erode, Tamil Nadu",
     featured: true,
@@ -182,3 +182,4 @@ export const achievementsData = [
     description: "Successfully completed comprehensive courses in ChatGPT & AI Prompting Concepts, GitHub Version Control Workflows, and Linux Command-Line Fundamentals."
   }
 ];
+
